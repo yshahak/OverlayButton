@@ -3,7 +3,9 @@ Overlay button Demo
 # OverlayButton
 Overlay button Demo
 
-Simple Demo shows how to draw View on top of any other application in your Android Device.
+Simple Demo shows how to draw View on top of any other application in your Android Device:
+http://www.thedroidboy.com/android-draw-view-on-other-application/
+
 
 ScreenShot:
 
